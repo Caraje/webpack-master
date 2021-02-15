@@ -1,14 +1,34 @@
-# Webpack
+# Webpack Starter 2021
 
-En este curso te enseño a configurar _Webpack_ el empaquetador de archivos para aplicaciones _JavaScript_ modernas más popular y usado por los _Frameworks_ y librerías _Frontend_.
+Este es el proyecto iniciual para crear aplicaciones usando Webpack
 
-- Video del Curso: https://www.youtube.com/watch?v=-bp3q-YTr4Q
-- Códigos finales del Curso: https://github.com/jonmircha/youtube-webpack
-- Nota sobre _Webpack_ en mi _blog_ personal https://jonmircha.com/webpack
 
-Mis Redes Sociales:
+### Notas: 
+Recordar reconstruir los modulos de node
+```
+npm install
 
-- 🔔 Suscríbete al canal https://youtube.com/jonmircha?sub_confirmation=1 🤓
-- 👉 Visita mi sitio web https://jonmircha.com/ 💻
-- 🌮 ¿Me invítas un taco? https://www.paypal.me/jonmircha
-- 📫 Suscríbete a mi lista de correo https://tinyletter.com/jonmircha/
+```
+Y para construir el build, recordar: 
+
+```
+npm run build 
+```
+
+
+Para añadir un nuevo repositorio solo escribir en la consola
+```
+git add .
+```
+
+Despues añadir el nombre con 
+```
+git commit -m "nombre de la actualizacion"
+
+```
+
+y terminamos para subirlo con 
+``` 
+git push
+
+```
